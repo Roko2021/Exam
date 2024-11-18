@@ -1,0 +1,137 @@
+@import url ('https://fonts.googleapis.com/css2؟ family = Poppins: wght @ 200 & display = swap') ؛
+*{
+    font-family: 'Poppins'، sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-Behavior: smooth;
+}
+*{
+    font-family: 'Poppins'، sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-Behavior: smooth;
+}
+.logo {
+    display: flex;
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 100px;
+    box-sizing: border-box;
+    background-color: aliceblue;
+}
+.navi{
+    display: inline-block;
+    text-transform: capitalize;
+    font-weight: 1000;
+    font-size: 1em;
+    width: 100%;
+}
+.navi img{
+    width: 60px;
+}
+.navi h2{
+    text-align: right;
+    position: absolute;
+    top: 5px;
+    right: 0%;
+}
+.navi h3{
+    text-align: right;
+    position: absolute;
+    top: 6%;
+    right: 0;
+}
+.navi p{
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: 200;
+    padding-left: 10px;
+    position: relative;
+    top: -40px;
+    right: 21px;
+}
+.shadow{
+    box-shadow: 0 5 25px;
+    width: 36px;
+    padding: 4px;
+    border: 0;
+    right: 0%;
+    transition-duration: 1.1s;
+}
+.shadow:hover{
+    width: 100px;
+}
+div {
+    text-align: right;
+}
+.quesone{
+    display: flex;
+    justify-content: space-between;
+}
+.eror{
+    text-align: left;
+    position: relative;
+    top: -8px;
+}
+
+.three{
+    display: flex;
+    justify-content: space-between;
+}
+
+.end{
+    text-align: center;
+}
+.try{
+    position: relative;
+    width: 100%;
+}
+.please{
+    width: 70%;
+    position: absolute;
+    right: 0%;
+    top: 0%;
+}
+.ighi{
+    width: 30%;
+    position: absolute
+    right: 0%;
+    top: 0%;
+}
+.try img{
+    width: 60px;
+}
+.test {
+    position: relative;
+    width: 100%;
+}
+.sitle{
+    width: 70%;
+    position: absolute;
+    right: 0%;
+    top: 0%;
+}
+.title{
+    width: 30%;
+}
+.street{
+    position: relative;
+}
+.sito{
+    width: 70%;
+    position: absolute;
+    right: 0%;
+    top: 0%;
+}
+.virgo{
+    width: 30%;
+}
+.text{
+    height: 50px;
+}
